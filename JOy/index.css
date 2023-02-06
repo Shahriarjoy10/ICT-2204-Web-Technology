@@ -1,0 +1,94 @@
+body{
+  padding: 0%;
+  margin: 0px;
+}
+.topnav{
+  display: flex;
+  align-items: center;
+}
+.logo img{
+  margin-left: 200px;
+  width: 200px;
+  height: 60px;
+}
+.hm{
+  margin-left: 300px;
+}
+.menu a{
+  padding: 20px;
+  text-decoration: none;
+  color: white;
+
+}
+.second{
+  display: flex;
+}
+.creative{
+  align-items: center;
+  /* text-align: center; */
+  margin-left: 200px;
+  width: 300px;
+}
+.photo img{
+  width: 600px;
+  height: 450px;
+  margin-left: 300px;
+}
+button{
+  height: 40px;
+  width: 150px;
+  border-radius: 15px;
+  background-color: orange;
+  color: white;
+  border-color: orange;
+  padding-right: 50px;
+}
+.creative h1{
+  font-size: 40px;
+}
+section{
+  width: 100%;
+  height: 68vh;
+  /* padding: 5rem; */
+  background: linear-gradient(180deg, #c21abf, #dc0a5e );
+  background-size: cover;
+  background-blend-mode: screen;
+}
+.wave{
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding-bottom: 1000px;
+}
+.last{
+  /* display: flex; */
+  align-items: center;
+  text-align: center;
+}
+.last h1{
+  padding-left: 80px;
+}
+.last img{
+  width: 250px;
+}
+.photos{
+  display: flex;
+  align-items: center;
+}
+.st{
+  width: 300px;
+  /* background-color: rgb(186, 186, 169); */
+  margin-left: 300px;
+
+}
+.st img{
+
+}
+.nd{
+  width: 300px;
+  /* background-color: rgb(186, 186, 169); */
+}
+.rd{
+  width: 300px;
+  /* background-color: beige; */
+}
